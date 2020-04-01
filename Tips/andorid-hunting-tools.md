@@ -42,6 +42,6 @@
 
 - Logcat REader.apk (useful for watching logs at runtime in android device .Very handy tool)
 
-These were the tools that helped me at testing android apps. 
+__These were the tools that helped me at testing android apps.__ 
 
 
