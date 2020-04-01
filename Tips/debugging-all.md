@@ -22,4 +22,4 @@ and also adb shell ps -e | grep <package-name>
 
 Now u get the pid of the app
 
-the use andbug or jdb to debugg the app 
+then use andbug or jdb to debugg the app 
