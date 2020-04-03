@@ -10,3 +10,8 @@ My Tips related to Android applications testing (Bug bounty)
 
 # Articles
 - [Android bug hunting reports](https://github.com/balook/android/blob/master/blogs.md)
+
+
+# Videos
+
+- [B3nac youtube channel](https://www.youtube.com/channel/UCeSBNDhEqcQSfeR8LEcD-NA) by [b3nac](https://twitter.com/b3nac)
