@@ -32,8 +32,12 @@ then use andbug or jdb to debugg the app
 Now get connect to shell of your device and use these commands ...
 
 Now edit default.prop in the adb shell
-> vi default.prop
+you can do that by editing manually using && vi default.prop => ro.debuggable to 1
+    (or)
+    Install two magisk modules busybox ndk and magisk props
+    next use the command props in adb shell =>  add/edit custom props  => and change ro.debuggable to 1
 and change ro.debuggable to 1
 
+Reference : [click this](https://awakened1712.github.io/hacking/hacking-magisk-modules/)
 Next use these commands
 
