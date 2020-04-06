@@ -10,7 +10,7 @@ My Tips related to Android applications testing (Bug bounty)
 
 # Articles
 - [Android bug hunting reports](https://github.com/balook/android/blob/master/blogs.md)
-- [Ios Article ](https://link.medium.com/wEAqKH49r5)
+- [Reverse Engineering the Australian Government’s Coronavirus iOS application](https://link.medium.com/wEAqKH49r5)
 
 
 # Videos
