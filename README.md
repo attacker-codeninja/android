@@ -16,3 +16,7 @@ My Tips related to Android applications testing (Bug bounty)
 # Videos
 
 - [B3nac youtube channel](https://www.youtube.com/channel/UCeSBNDhEqcQSfeR8LEcD-NA) by [b3nac](https://twitter.com/b3nac)
+
+
+# contact 
+[oyenom](http://twitter.com/oyenom)
