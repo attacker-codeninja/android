@@ -11,7 +11,7 @@ My Tips related to Android applications testing (Bug bounty)
 # Articles
 - [Android bug hunting reports](https://github.com/balook/android/blob/master/blogs.md)
 - [Reverse Engineering the Australian Government’s Coronavirus iOS application](https://link.medium.com/wEAqKH49r5)
-
+- [zoho cliq app passcode bypass](https://negativewives.blogspot.com/2020/04/passcode-protection-bypass-by-brute.html?m=1)
 
 # Videos
 
